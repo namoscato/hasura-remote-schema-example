@@ -1,0 +1,4 @@
+- name: example
+  definition:
+    url_from_env: EXAMPLE_REMOTE_SCHEMA_GRAPHQL_URL
+    timeout_seconds: 60
